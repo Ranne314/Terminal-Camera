@@ -1,6 +1,6 @@
 # 📽️ ASCII Video Converter
 
-Convert *webcam video* to **colored ASCII art** in real-time using OpenCV.
+A short single python file that converts *webcam video* to **colored ASCII art** in real-time using OpenCV.
 
 ## Prerequisite
 
