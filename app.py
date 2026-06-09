@@ -4,7 +4,7 @@ RESET = f"{ESC}0m"
 
 def convert_to_ascii(frame):
     chars = " .:-=+*#%@"
-    size = cv2.resize(frame, (50, 100))
+    size = cv2.resize(frame, (150, 100))
     result :str = ""
 
     for i, row in enumerate(size):
