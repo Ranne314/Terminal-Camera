@@ -10,4 +10,4 @@ A short single python file that converts *webcam video* to **colored ASCII art**
 ## Usage
 
 ```bash
-python main.py
+python app.py
